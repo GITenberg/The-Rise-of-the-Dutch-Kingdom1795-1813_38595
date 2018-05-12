@@ -1,0 +1,32 @@
+_repo: The-Rise-of-the-Dutch-Kingdom1795-1813_38595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Loon, Hendrik Willem
+    aliases:
+    - Loon, Hendrik Van
+    - Loon, Hendrik Willem Van
+    birthdate: 1882
+    deathdate: 1944
+    gutenberg_agent_id: '392'
+    url: http://www.gutenberg.org/2009/agents/392
+    wikipedia: http://en.wikipedia.org/wiki/Hendrik_Willem_van_Loon
+description: ''
+gutenberg_issued: '2012-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38595'
+  lccn: '15007018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DJ'
+- !lcsh 'Netherlands -- History -- 1795-1815'
+title: "The Rise of the Dutch Kingdom, 1795-1813\r\nA Short Account of the Early Development\
+  \ of the Modern Kingdom of the Netherlands"
+url: http://www.gutenberg.org/ebooks/38595
